@@ -1,0 +1,15 @@
+{
+    "name": "kakawait/TinyPHP",
+    "description": "PHP source file minifier",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Matt Gaidica",
+            "email": "matt@gaidi.ca"
+        },
+        {
+            "name": "Thibaud Leprêtre",
+            "email": "thibaud.lepretre@gmail.com"
+        }
+    ]
+}
