@@ -1,5 +1,5 @@
 <?php
-class Tiny
+class TinyPHP
 {
     private static $EXCLUDES = array(
         '$GLOBALS',
