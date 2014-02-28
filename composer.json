@@ -1,5 +1,5 @@
 {
-    "name": "kakawait/TinyPHP",
+    "name": "kakawait/tinyphp",
     "description": "PHP source file minifier",
     "minimum-stability": "stable",
     "authors": [
