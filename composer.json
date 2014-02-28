@@ -11,5 +11,8 @@
             "name": "Thibaud Leprêtre",
             "email": "thibaud.lepretre@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": { "TinyPHP": "src/" }
+    }
 }
