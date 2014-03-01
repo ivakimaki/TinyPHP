@@ -1,4 +1,7 @@
 <?php
+
+namespace TinyPHP;
+
 class Minifier
 {
     private static $EXCLUDES = array(
